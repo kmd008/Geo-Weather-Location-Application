@@ -1,0 +1,14 @@
+
+#map { 
+    height: 600px; 
+}
+
+body{
+    text-align:justify;
+    }
+    
+    p{
+        background-color: bisque;
+        font-size:  20px;
+    }
+    
